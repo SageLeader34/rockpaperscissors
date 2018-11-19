@@ -5,7 +5,10 @@
 //GLOBAL VARIABLES
 /* global $ */
 
-
-
 // DOCUMENT READY FUNCTION BELOW
+ $("#shoot").click(function(){
+var userChoice = $('#userChoice').val();
+console.log(userChoice);
 
+     
+ })
